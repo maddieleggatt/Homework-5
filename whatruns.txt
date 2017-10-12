@@ -1,0 +1,8 @@
+CMS: Mousewheel JS
+Programming Language: Java - Jave makes application and makes HTML interactive.
+Sales and Marketing:Chartbeat - tells you how many viewers use your site and how they are using it
+Analytics: SiteCatalyst, comScore, Scorecardresearch, Moat - is running the business aspect of the website, keeping record of numbers
+Miscellaneous:Lotame - is used for customers to target their advertising
+JavaScript Graphics: Hover, Move Js
+Advertising: cXense - organizes data
+Font: Open Sans
